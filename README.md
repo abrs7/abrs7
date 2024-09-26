@@ -23,10 +23,15 @@ Welcome to my GitHub profile! I'm a dedicated and results-driven Software Develo
 - **Automation and Scripting:** Writing Python scripts to automate tasks and web scraping solutions.
 - **Blockchain Development:** Creating and managing tokens on blockchains like Solana.
 
+  
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,python,php,javascript,css,html,django,react,next,&perline=10)](https://skillicons.dev)
+
+
+
 ## 🏅 Certifications
 
 - **Meta Programming with JavaScript:** Gained in-depth knowledge and skills in advanced JavaScript programming techniques, including metaprogramming concepts such as proxies, reflection, and code generation.
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,python,php,javascript,css,html,django,react,next,&perline=4)](https://skillicons.dev)
+
 
 
 ## 🚀 Projects
